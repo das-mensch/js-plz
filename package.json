@@ -1,0 +1,19 @@
+{
+  "name": "js-plz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "build": "node ./src/pre-process.js && node ./src/build-buffer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/das-mensch/js-plz.git"
+  },
+  "author": "",
+  "license": "ODbL",
+  "bugs": {
+    "url": "https://github.com/das-mensch/js-plz/issues"
+  },
+  "homepage": "https://github.com/das-mensch/js-plz#readme"
+}
